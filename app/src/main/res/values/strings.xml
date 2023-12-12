@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">The Story</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">Every one has story of their own!</string>
+    <string name="title_welcome_page">Welcome to The Story</string>
+    <string name="title_signup_page">Please fill the data bellow</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_login_page">Are you ready to share your story?</string>
+    <string name="message_login_page">Please insert your data first</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="success">Success</string>
+    <string name="name_story">Story name</string>
+    <string name="description_story">Story description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description_add">Add description</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please insert the image file first</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="retry">Retry</string>
+</resources>
